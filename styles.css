@@ -1,0 +1,74 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+background-color: #C4A484;
+    
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.option-one-screen {
+    display:none;
+    
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+
+
+.option-two-screen{
+   display:none;
+}
+
+
+
+.buttons{
+   
+}
+
+
+
+.open-one-screen{
+   display:none;
+}
+
+
+ 
+.open-two-screen{
+   display:none;
+}
+
+
+
+.open-one-end{
+   display:block;
+}
+
+
+
+.open-two-end{
+   display:none;
+}
